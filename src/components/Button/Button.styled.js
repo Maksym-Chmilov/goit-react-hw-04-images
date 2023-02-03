@@ -19,7 +19,7 @@ export const LoadMoreBtn = styled.button`
   cursor: pointer;
   font-family: inherit;
   font-size: 18px;
-  line-height: 25px;
+  line-height: 26px;
   font-style: normal;
   font-weight: 500;
   width: 180px;
