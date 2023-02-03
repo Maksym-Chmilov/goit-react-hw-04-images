@@ -74,6 +74,7 @@ export const App = () => {
     if (inputSearch === '') {
       return;
     } else getFotos(inputSearch, pageNumber);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [pageNumber, inputSearch]);
 
   return (
